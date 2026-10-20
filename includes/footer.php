@@ -1,6 +1,5 @@
-<footer>
-    <hr>
-    <p>&copy; <?php echo date('Y'); ?> Mağaza Patrul - Bütün hüquqlar qorunur.</p>
-</footer>
+</div> <!-- content end -->
+</div> <!-- main-wrapper end -->
+
 </body>
 </html>
